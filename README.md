@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nonijay
-- 👀 I’m interested in ...webdev 
-- 🌱 I’m currently learning ...html,css and JS
-- 💞️ I’m looking to collaborate on ...CSS and JS
+- 👀 I’m interested in ...Frontend Development
+- 🌱 I’m currently learning ...html,css and JS, React,Tailwind and so much more.
+- 💞️ I’m looking to collaborate and open to ideas.  
 - 📫 How to reach me ...Here on Github and email, inbox to know more.
 
 <!---
