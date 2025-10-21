@@ -3,7 +3,10 @@
 - I'm proficient with HTML, CSS, Javascript, React, Tailwind, Boostrap, 
 - 🌱 I’m currently learning ... NextJS, Graphql, NodeJs and so much more.
 - 💞️ I’m looking to collaborate and open to ideas.  
-- 📫 How to reach me ...Here on Github, facebook, instagram and gmail, inbox to know more.
+- 📫 How to reach me ...
+- instagram @nonijay_
+- twitter @Jefferychukwu
+- Email: info@criousdev.com
 
 <!---
 Nonijay/Nonijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
