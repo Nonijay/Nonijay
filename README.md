@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... NextJS, Graphql, NodeJs and so much more.
 - 💞️ I’m looking to collaborate and open to ideas.  
 - 📫 How to reach me ...
-- instagram @nonijay_
+- instagram @instagram.com/nonijay_
 - twitter @Jefferychukwu
 - Email: info@criousdev.com
 
